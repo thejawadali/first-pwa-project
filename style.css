@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: #ddd;
+}
+
+.img{
+  width: 82px;
+  height: 82px;
+  object-fit: cover;
+  margin: 12px;
+}
+
+h1 {
+  color: red;
+  font-size: 48px;
+}
