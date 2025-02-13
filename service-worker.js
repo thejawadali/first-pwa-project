@@ -2,8 +2,8 @@ const CACHE_NAME = "cache-v1"
 const assets = [
   "/",
   "/index.html",
-  "/css/style.css",
-  "/js/app.js",
+  "/style.css",
+  "/index.js",
   "/images/coffee1.jpg",
   "/images/coffee2.jpg",
   "/images/coffee3.jpg",
